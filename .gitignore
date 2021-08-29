@@ -1,0 +1,7 @@
+/venv/
+/.idea/
+migrations/
+*.sqlite3
+
+/static-root/
+/static/
